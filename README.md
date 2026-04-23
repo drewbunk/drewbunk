@@ -1,10 +1,10 @@
 # Drew Bunkley
 
-## AI Product Builder | Mobile Apps | Automation | Real-World Solutions
+## AI Product Builder | Mobile Apps | Automation | Business-Focused Solutions
 
-I build practical AI-powered products that combine mobile apps, automation systems, APIs, subscriptions, and monetization.
+I build practical AI-powered products that combine mobile apps, automation systems, APIs, subscriptions, and user-focused experiences.
 
-My background blends business leadership, product strategy, and hands-on execution.
+My background combines 30+ years of business leadership with hands-on product execution, rapid prototyping, and go-to-market thinking.
 
 ---
 
@@ -15,23 +15,23 @@ My background blends business leadership, product strategy, and hands-on executi
 - LLM workflows & automation  
 - Subscription products  
 - Creator / small business tools  
-- Rapid MVP concepts
+- MVPs built for real-world users
 
 ---
 
 ## Featured Projects
 
 ### Couch Play Pro
-Couples connection app featuring games, prompts, date ideas, and premium subscriptions.
+Couples connection app featuring games, prompts, shared experiences, and premium subscriptions.
 
 ### No Plastic Swap
-AI-powered product scanner helping users identify harmful household products and find safer alternatives.
+AI-powered product scanner helping users identify harmful household products and discover safer alternatives.
 
 ### FriendSay
-Human support + AI companion platform designed for connection and conversation.
+Human support + AI companion platform focused on connection, conversation, and accessibility.
 
 ### T8K Flight
-Premium lifestyle membership ecosystem with app, digital passport, and event experiences.
+Premium lifestyle membership ecosystem featuring events, digital passport access, and exclusive experiences.
 
 ---
 
@@ -43,7 +43,9 @@ Python • JavaScript • APIs • OpenAI • Google AI Studio • Base44 • St
 
 ## Business Experience
 
-30+ years in operations, leadership, customer experience, product development, and revenue-focused execution.
+30+ years in operations, leadership, customer experience, product development, sales, and revenue-focused execution.
+
+I understand both how to build products and how to position them for growth.
 
 ---
 
